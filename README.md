@@ -1,2 +1,4 @@
-# web-335
-Repo for Intro to NoSQL
+# WEB 335 Introduction to NoSQL
+Contributors
+Professor Krasso
+Megan Walker
