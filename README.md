@@ -1,4 +1,4 @@
 # WEB 335 Introduction to NoSQL
-Contributors
-Professor Krasso
-Megan Walker
+## Contributors
+* Professor Richard Krasso
+* Megan Walker
