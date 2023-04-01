@@ -1,5 +1,5 @@
 
- # Title: bill.js
+ # Title: Calculator.py
  # Author: Megan Walker
  # Date: 04/01/23
  # Description: calculator.py for Web 335 Assign_3
